@@ -1,0 +1,9 @@
+training_data_human: "./human"
+training_data_object: "./object"
+all_data: "./paired_dataset"
+paired_data_path: "./cleaned_paired_dataset"
+concat_data_path: "./data"
+max_concat_n: 3
+do_check: True
+fail_path: "./problem_data"
+vlm_model: "gpt-4.1-mini"
