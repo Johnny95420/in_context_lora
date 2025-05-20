@@ -1,0 +1,17 @@
+data:
+  data_path: ./final_data
+  embedded_data_path: ./embedded_data_flux
+model:
+  tracker_name: ic_lora_cloth_model_flux
+  lr_warmup_steps: 100
+  max_train_steps: 10000
+  pretrained_model_name_or_path: black-forest-labs/FLUX.1-dev
+  gradient_accumulation_steps: 1
+  learning_rate: 1e-4
+  batch_size: 4
+  output_dir: "./output_flux"
+  logging_dir: "./log_flux"
+  upcast_before_saving: False
+  checkpoints_total_limit: 5
+  vae_config_path: "./vae_config_flux.pkl"
+  negative_prompt_emb_path: "./negative_prompt.pkl"
