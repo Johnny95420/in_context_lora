@@ -131,7 +131,7 @@ python train_script_flux.py
    
    
    4. run generation pipeline
-   <img src="./imgs/gen2.png" alt="Sample Image" style="width:90%;">
+      <img src="./imgs/gen2.png" alt="Sample Image" style="width:90%;">
 ---
 ## Checkpoint
 
