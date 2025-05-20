@@ -132,7 +132,11 @@ python train_script_flux.py
    
    4. run generation pipeline
    <img src="./imgs/gen2.png" alt="Sample Image" style="width:90%;">
-   
+---
+## Checkpoint
+
+https://huggingface.co/Johnny840420/flux_ic_lora_tryon_generation
+
 ---
 ## Example
 1. prompt : This <Brand> bralette is a delicate, luxurious lingerie piece designed for elegance and comfort, featuring soft beige fabric with intricate floral embroidery and fine metallic trim along its edges, ideal for intimate wear or layering under light summer attire.\n\n<IMAGE 1> The front view of the <Brand> bralette displays triangle cups with semi-sheer floral embroidery on beige fabric, bordered by shimmering gunmetal metallic trim that outlines the shape and adds subtle glamour. Thin, adjustable straps rise from the cups, enhancing the minimalistic, lightweight silhouette. The texture is soft and slightly translucent, blending delicate craft with a sleek, refined edge.\n\n<IMAGE 2> From the back, the <Brand> bralette reveals the smooth, solid beige inner fabric of the cups and the adjustable hook clasp closure at the center. The metallic trim continues around the band, maintaining the piece’s cohesive shimmer. The thin straps maintain simplicity, emphasizing clean lines and functionality alongside the decorative front.\n\n<IMAGE 3> The model, a slender young woman with olive skin and curly brunette hair styled loosely in a messy bun, is captured from behind wearing the <Brand> bralette paired with a skinny short jeans. The skinny short jeans fit her hips and thighs perfectly. She accessorizes with black leather gloves and black ankle boots, blending casual ease with an edgy vibe. The scene is lit by dim daylight against a pristine white wall, emphasizing a clean, minimalist, and modern mood.
